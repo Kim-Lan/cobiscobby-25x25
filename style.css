@@ -284,6 +284,7 @@ button.bigbut:disabled {
 button.bigbut.completed {
   opacity: 0.9;
   cursor: default;
+  overflow: visible;
 }
 
 button.bigbut.juice-pop {
